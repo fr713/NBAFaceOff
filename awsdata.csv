@@ -1,0 +1,7 @@
+player,POSITION,GP,FG_PCT,FT_PCT,3PT_PCT,points_avg,assists_avg,rebounds_avg,steals_avg,blocks_avg
+"['Luka Doncic', 'Forward-Guard', 330, 0.466, 0.739, 0.338, 27.6, 8.0, 8.6, 1.1, 0.4, 4.0, 2.0]","['All-NBA', 'All-NBA', 'All-NBA', 'All-NBA', 0]"
+"['Javale Mcgee', 'Center-Forward', 993, 0.572, 0.594, 0.2, 7.9, 0.4, 5.3, 0.4, 1.5, 1.0, 0.4]",[3]
+"['Zaza Pachulia', 'Center', 1098, 0.469, 0.751, 0.0, 6.8, 1.3, 5.8, 0.7, 0.3, 1.3, 1.0]",[2]
+"['Stephen Curry', 'Guard', 882, 0.475, 0.909, 0.428, 24.6, 6.5, 4.7, 1.6, 0.2, 3.1, 2.096774193548387]","['All-NBA', 'All-NBA', 'All-NBA', 'All-NBA', 'All-NBA', 'All-NBA', 'All-NBA', 'NBA Most Valuable Player', 'NBA Most Valuable Player', 'All-NBA', 'NBA Finals Most Valuable Player', 'All-NBA', 4]"
+"['Kyrie Irving', 'Guard', 731, 0.474, 0.886, 0.39, 23.7, 5.7, 4.0, 1.3, 0.5, 2.5, 2.2800000000000002]","['All-NBA', 'All-NBA', 'All-NBA', 1]"
+"['Jayson Tatum', 'Forward-Guard', 439, 0.458, 0.847, 0.375, 22.5, 3.3, 7.0, 1.1, 0.7, 2.3, 1.434782608695652]","['All-NBA', 'All-NBA', 'All-NBA', 0]"
